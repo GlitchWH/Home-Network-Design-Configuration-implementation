@@ -124,5 +124,5 @@ mypassphrase!
 ## How to Run
 
 1. Install Cisco Packet Tracer.
-2. Open the project .pkt file from this repository.
+2. Open the SmallHomeNetworkForNatsumi.pkt file from this repository.
 3. Run the simulation and browse to skillsforall.srv from any client device.
